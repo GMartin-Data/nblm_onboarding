@@ -502,7 +502,7 @@ Agis en tant que Senior Data Engineer & Architecte Solutions. Analyse les source
 Le workflow de raffinement est désormais bien connu et ne sera plus rappelé.
 
 ## Infographie
-Ne sélectionner que la nouvelle source `03_COURS_DBT`
+Ne sélectionner que la nouvelle source `03_COURS_AIRFLOW`
 
 ### Setup
 - **Orientation**: Portrait
